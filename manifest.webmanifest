@@ -3,7 +3,7 @@
   "name": "แสดงตัวอย่าง",
   "short_name": "แสดงตัวอย่าง",
   "description": "แสดงตัวอย่าง",
-  "start_url": "./",
+  "start_url": "./?launch=1",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
